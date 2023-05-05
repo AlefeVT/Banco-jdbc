@@ -4,9 +4,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>br.com.alura</groupId>
-    <artifactId>bytebank</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    < groupId > br.com.alefe</ groupId >
+< artefatoId > banco de bytes </ artefatoId >
+< versão > 1.0-SNAPSHOT </ versão >
+
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
